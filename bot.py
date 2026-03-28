@@ -10,7 +10,7 @@ CHAT_ID = os.environ.get("6318865778")
 URL = "https://www.agropraktika.eu/vacancies"
 CHECK_INTERVAL = 120
 
-bot = Bot(token=8787982429:AAGpfzIibK7e58YtvAl6g5m1EG2sZtEdFYA)
+bot = Bot(token="8787982429:AAGpfzIibK7e58YtvAl6g5m1EG2sZtEdFYA")
 
 # Переменная для хранения предыдущего состояния
 previous_hash = None
