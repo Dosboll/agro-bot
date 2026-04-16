@@ -4,7 +4,7 @@ import aiohttp
 import hashlib
 
 BOT_TOKEN = "ТВОЙ_ТОКЕН"
-CHAT_ID = "6318865778"
+CHAT_ID = "8102460194"
 
 URL = "https://www.agropraktika.eu/vacancies"
 CHECK_INTERVAL = 120
